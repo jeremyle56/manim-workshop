@@ -5,5 +5,7 @@ Contains the code used for `UNSW MathSoc: How 3Blue1Brown Animates His Videos` a
 Presented by Matthew Bloomfield and Jeremy Le
 
 [Demo](./Demo/) - Contains the Code used during the presentation
+
 [Exercises](./Exercises/) - Contains the code solutions to the exercises
+
 [practice.ipynb](./practice.ipynb) - Is the given handout file for the event
