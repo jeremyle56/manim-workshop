@@ -1,3 +1,5 @@
+# A possible solution to the Quadratic Equation Exercise
+
 from manim import *
 
 
