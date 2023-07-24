@@ -8,4 +8,4 @@ Presented by Matthew Bloomfield and Jeremy Le
 
 [Exercises](./Exercises/) - Contains the code solutions to the exercises
 
-[practice.ipynb](./practice.ipynb) - Is the given handout file for the event
+[handout.ipynb](./handout.ipynb) - Is the given handout file for the event
