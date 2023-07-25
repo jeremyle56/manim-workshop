@@ -39,7 +39,7 @@ class Graphing_Challenge(Scene):
             color=RED,
         )
         seventh_order_label = MathTex(
-            r"f(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} + \frac{x^7}{7!}"
+            r"f(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!}"
         )
         seventh_order_label.color = seventh_order.get_color()
         seventh_order_label.next_to(xy_plane, RIGHT)

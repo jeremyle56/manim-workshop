@@ -9,3 +9,5 @@ Presented by Matthew Bloomfield and Jeremy Le
 [Exercises](./Exercises/) - Contains the code solutions to the exercises
 
 [handout.ipynb](./handout.ipynb) - Is the given handout file for the event
+
+- Given as Binder [here](https://mybinder.org/v2/gh/jeremyle56/manim-workshop/HEAD?labpath=handout.ipynb)
